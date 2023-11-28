@@ -1,0 +1,3 @@
+cdn
+crossorigin
+script types
